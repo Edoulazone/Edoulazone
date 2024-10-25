@@ -1,4 +1,4 @@
-  ![gandalf](https://github.com/Edoulazone/gifs/blob/master/gandalf.gif)
+<a href="![gandalf](https://github.com/Edoulazone/gifs/blob/master/gandalf.gif)" target="blank"><img align="center"
 <h1 align="center">Hi, I'm Edou</h1>
 <h3 align="center">A lost student from 19 in Brussels</h3>
 
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **, you guessed it, minishell**
 
-- 📫 How to reach me **eduardoschmitz.p@gmail.com**
+- 📫 How to reach me: **eduardoschmitz.p@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

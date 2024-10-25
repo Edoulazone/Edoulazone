@@ -12,7 +12,7 @@
 
 - 🤷🏻‍♂️ I’m looking for help with **MINISHEEEEEEEEEEEEELLLLLL**
 
-<img align="left" alt="crazy" width="150" src="https://github.com/Edoulazone/gifs/blob/master/crazy.gif">
+<img align="center" alt="crazy" width="150" src="https://github.com/Edoulazone/gifs/blob/master/crazy.gif">
 
 - 📫 You can contact me at: **eduardoschmitz.p@gmail.com**
 

@@ -4,13 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edoulazone&label=Profile%20views&color=0e75b6&style=flat" alt="edoulazone" /> </p>
 
+- 🇧🇪 I'm from Brussels
+
 - 🔭 I’m currently working on **minishell**
 
 - 👯 I’m looking to collaborate on **minishell also**
 
-- 🤝 I’m looking for help with **, you guessed it, minishell**
+- 🤷🏻‍♂️ I’m looking for help with **MINISHEEEEEEEEEEEEELLLLLL**
 
-- 📫 How to reach me: **eduardoschmitz.p@gmail.com**
+<img align="center" alt="crazy" width="150" src="https://github.com/Edoulazone/gifs/blob/master/crazy.gif">
+
+- 📫 You can contact me at: **eduardoschmitz.p@gmail.com**
+
+- 🔮 Fun fact: **I tend to learn extremely useless stuff when I'm tired of working**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

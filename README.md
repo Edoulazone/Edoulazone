@@ -14,9 +14,9 @@
 
 <img align="center" alt="crazy" width="150" src="https://github.com/Edoulazone/gifs/blob/master/crazy.gif">
 
-- 📫 You can contact me at: **eduardoschmitz.p@gmail.com**
-
 - 🔮 Fun fact: **I tend to learn extremely useless stuff when I'm tired of working**
+
+- 📫 You can contact me at: **eduardoschmitz.p@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **minishell also**
 
-- 🤝 I’m looking for help with **, you guessed it, minishell**
+- 🤝 I’m looking for help with, ** you guessed it, minishell**
 
 - 📫 How to reach me **eduardoschmitz.p@gmail.com**
 

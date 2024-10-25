@@ -1,4 +1,4 @@
-<h1 align="center" href="![gandalf](https://github.com/Edoulazone/gifs/blob/master/gandalf.gif)"></h1>
+<h1 align="center" ![gandalf](https://github.com/Edoulazone/gifs/blob/master/gandalf.gif)></h1>
 <h1 align="center">Hi, I'm Edou</h1>
 <h3 align="center">A lost student from 19 in Brussels</h3>
 

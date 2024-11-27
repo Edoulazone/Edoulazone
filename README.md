@@ -8,12 +8,6 @@
 
 - 🔭 I’m currently working on **minishell**
 
-- 👯 I’m looking to collaborate on **minishell also**
-
-- 🤷🏻‍♂️ I’m looking for help with **MINISHEEEEEEEEEEEEELLLLLL**
-
-<img align="center" alt="crazy" width="150" src="https://github.com/Edoulazone/gifs/blob/master/crazy.gif">
-
 - 🔮 Fun fact: **I tend to learn extremely useless stuff when I'm tired of working**
 
 - 📫 You can contact me at: **eduardoschmitz.p@gmail.com**

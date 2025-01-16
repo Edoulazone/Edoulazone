@@ -1,6 +1,6 @@
 <img align="right" alt="Gandalf" width="1000" src="https://github.com/Edoulazone/gifs/blob/master/gandalf.gif">
 <h1 align="center">Welcome on my GitHub, I'm Edou</h1>
-<h3 align="center">A lost student from 19 in Brussels</h3>
+<h3 align="center">A student from Campus 19 in Brussels</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edoulazone&label=Profile%20views&color=0e75b6&style=flat" alt="edoulazone" /> </p>
 

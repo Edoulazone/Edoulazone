@@ -6,7 +6,7 @@
 
 - 🇧🇪 I'm from Brussels
 
-- 🔭 I’m currently working on some CPP projects and NetPractice
+- 🔭 I’m currently working on some CPP projects and a brand new WebServer
 
 - 🔮 Fun fact: **I tend to learn extremely useless stuff when I'm tired of working**
 

@@ -1,14 +1,12 @@
 <img align="right" alt="Gandalf" width="1000" src="https://github.com/Edoulazone/gifs/blob/master/gandalf.gif">
 <h1 align="center">Welcome on my GitHub, I'm Edou</h1>
-<h3 align="center">A student from Campus 19 in Brussels</h3>
+<h3 align="center">A student from 42 Belgium in Brussels</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edoulazone&label=Profile%20views&color=0e75b6&style=flat" alt="edoulazone" /> </p>
 
 - 🇧🇪 I'm from Brussels
 
-- 🔭 I’m currently working on some CPP projects and a brand new WebServer
-
-- 🔮 Fun fact: **I tend to learn extremely useless stuff when I'm tired of working**
+- 🔭 I’m currently working on some recreating the malloc function and an Assembly library
 
 - 📫 You can contact me at: **eduardoschmitz.p@gmail.com**
 

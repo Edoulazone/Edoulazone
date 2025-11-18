@@ -6,7 +6,7 @@
 
 - 🇧🇪 I'm from Brussels
 
-- 🔭 I’m currently working on some recreating the malloc function and an Assembly library
+- 🔭 I’m currently working on recreating the malloc function and an Assembly library
 
 - 📫 You can contact me at: **eduardoschmitz.p@gmail.com**
 
